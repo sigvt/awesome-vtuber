@@ -44,3 +44,4 @@
 - [Honeybee](https://github.com/holodata/honeybee) - 🍯🐝 Distributed YouTube live chat events collector
 - [VTuber API](https://github.com/Choooks22/vt-api) - A Mongoose / GraphQL based API to serve VTuber information from multiple platforms.
 - [MasterChat](https://github.com/holodata/masterchat) - A Node.js library for YouTube Live Chat
+- [pytchat](https://github.com/taizan-hokuto/pytchat) - Python library for youtube chat.
