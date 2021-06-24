@@ -22,6 +22,7 @@
   - [GitHub](https://github.com/DreamWithNokz/hololive-youtube-subscriber-count)
 - [Hololive Viewership Stats](http://jefftao.com/hodllive/#/subs/value)
   - [GitHub](https://github.com/Speculative/hodllive)
+- [VTuber Collab Map](https://vchama.xyz/)
 
 ## Trend Analysis
 
