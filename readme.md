@@ -23,9 +23,12 @@
 - [Hololive Viewership Stats](http://jefftao.com/hodllive/#/subs/value)
   - [GitHub](https://github.com/Speculative/hodllive)
 - [VTuber Collab Map](https://vchama.xyz/)
+- [HoloClouds](https://github.com/Yagato/HoloClouds) - Program that generates WordClouds
 
-## Trend Analysis
+## Statistics
 
+- [HoloStats](https://holo.poi.cat/youtube-channel)
+  - [GitHub](https://github.com/PoiScript/HoloStats)
 - [VTuber Chat Trends](https://www.vtuber-ct.net/en) - VTuber Chat Trends では、VTuber のライブ配信のチャット内で、どのようなキーワードが多く発言されたかを確認することができます。
 - [PLAYBOARD](https://playboard.co/en/) - Top Youtube channels
 - [UserLocal](https://virtual-youtuber.userlocal.jp/document/ranking) - 人気バーチャルユーチューバー ランキング
