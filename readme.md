@@ -57,4 +57,4 @@
 
 ## Discord
 
-- [holodata Discord](https://discord.gg/GtPfNNKKGk) - Discord server for holodata projects, data science, and other technical discussions.
+- [holodata Discord](https://discord.gg/WdppARHgcy) - Discord server for holodata projects, data science, and other technical discussions.
