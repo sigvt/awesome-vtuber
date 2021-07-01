@@ -8,6 +8,8 @@
 - [バーチャル YouTuberLOD](https://mdlab.slis.tsukuba.ac.jp/lodc2018/vtuber/) - VTuber LOD
 - [v-data](https://v-data.info/) - Search Vtubers by Emoji
 - [にじさんじコメント検索](https://comment2434.com/comment/) - Search live chats posted on Nijisanji streams
+- [Ragtag Archive](https://archive.ragtag.moe/) - This website aims to back up as much Virtual YouTuber content as possible
+  - [GitLab](https://gitlab.com/aonahara/archive-browser)
 
 ## Dataset
 
@@ -52,3 +54,7 @@
 - [MasterChat](https://github.com/holodata/masterchat) - A Node.js library for YouTube Live Chat
 - [Honeybee](https://github.com/holodata/honeybee) - 🍯🐝 Distributed YouTube live chat events collector
 - [hololive-now-server](https://github.com/drumath2237/hololive-now-server) - ホロジュールからスクレイピングして配信スケジュールを取得する API 鯖
+
+## Discord
+
+- [holodata Discord](https://discord.gg/GtPfNNKKGk) - Discord server for holodata projects, data science, and other technical discussions.
