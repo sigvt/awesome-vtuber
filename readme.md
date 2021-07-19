@@ -1,6 +1,6 @@
 # Awesome Vtuber
 
-A curated list of awesome Vtuber-related projects. OSS listed first.
+A curated list of awesome Vtuber-related projects. OSS comes first.
 
 > Missing your project? Send a pull-request.
 
