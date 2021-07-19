@@ -1,6 +1,6 @@
 # Awesome Vtuber
 
-A curated list of Vtuber-related projects.
+A curated list of awesome Vtuber-related projects. OSS listed first.
 
 > Missing your project? Send a pull-request.
 
@@ -30,8 +30,8 @@ A curated list of Vtuber-related projects.
   - [Source Code](https://github.com/DreamWithNokz/hololive-youtube-subscriber-count)
 - [Hololive Viewership Stats](http://jefftao.com/hodllive/#/subs/value)
   - [Source Code](https://github.com/Speculative/hodllive)
-- [HoloClouds](https://github.com/Yagato/HoloClouds) - Program that generates WordClouds from [Vtuber 300M Dataset](https://www.kaggle.com/uetchy/vtuber-livechat)
-  - [Reddit post](https://www.reddit.com/r/Hololive/comments/obzwfr/kiryu_cocoshaped_wordcloud_made_out_of_the_30k/)
+- [HoloClouds](https://www.reddit.com/r/Hololive/comments/obzwfr/kiryu_cocoshaped_wordcloud_made_out_of_the_30k/) - Program that generates WordClouds from [Vtuber 300M Dataset](https://www.kaggle.com/uetchy/vtuber-livechat)
+  - [Source Code](https://github.com/Yagato/HoloClouds)
 - [VTuber Collab Map](https://vchama.xyz/)
 
 ## Statistics
@@ -44,7 +44,7 @@ A curated list of Vtuber-related projects.
 - [PLAYBOARD](https://playboard.co) - Top Youtube channels
 - [UserLocal](https://virtual-youtuber.userlocal.jp/document/ranking) - 人気バーチャルユーチューバー ランキング
 
-## Live Stream Index
+## Live Stream & Clip Index
 
 - [Holodex](https://holodex.net/)
   - [Source Code](https://github.com/HolodexNet/Holodex)
@@ -53,6 +53,7 @@ A curated list of Vtuber-related projects.
 - [ホロジュール](https://schedule.hololive.tv/) - ホロライブプロダクション配信予定スケジュール
 - [VNUMA](https://vnuma.net/)
 - [VTubers](https://vtubers.love/) - VTuber のクリップ共有サービス
+- [VTuber video feeds](https://vchama.xyz/feeds) - shows new videos matched with specific terms
 
 ## Tools & Libraries
 
@@ -66,3 +67,7 @@ A curated list of Vtuber-related projects.
 ## Discord
 
 - [holodata Discord](https://holodata.org/discord) - Discord server for holodata projects, computer/data science, vtubers, and other general discussions.
+
+## Subreddits
+
+- [HoloStatistics](https://www.reddit.com/r/HoloStatistics/) - This community was created with the intent of creating a place for everyone that wishes to have fun looking at the numbers of the talents!
