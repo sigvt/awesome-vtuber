@@ -63,6 +63,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [HoloRes/holotools-api](https://github.com/HoloRes/holotools-api) - A Javascript library for the Holotools API.
 - [holodata/honeybee](https://github.com/holodata/honeybee) - 🍯🐝 Distributed YouTube live chat events collector
 - [drumath2237/hololive-now-server](https://github.com/drumath2237/hololive-now-server) - ホロジュールからスクレイピングして配信スケジュールを取得する API 鯖
+- [youtube-lv](https://github.com/phillychi3/youtube_lv) - get the youtube live status
 
 ## Discord
 
