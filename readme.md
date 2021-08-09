@@ -55,6 +55,10 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [VTubers](https://vtubers.love/) - VTuber のクリップ共有サービス
 - [VTuber video feeds](https://vchama.xyz/feeds) - shows new videos matched with specific terms
 
+## Apps & Utilities
+
+- [Hololive xbar plugin](https://github.com/DaniruKun/hololive-xbar-plugin) - A Hololive xbar plugin, as a front end for Holofans and Holodex APIs.
+
 ## Tools & Libraries
 
 - [Choooks22/vt-api](https://github.com/Choooks22/vt-api) - A Mongoose / GraphQL based API to serve VTuber information from multiple platforms.
