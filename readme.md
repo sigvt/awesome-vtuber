@@ -72,6 +72,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ## Discord
 
+- [luna-translations-bot](https://github.com/luna-translations-bot/luna-translations-bot) - A complex and popular Discord bot for the Hololive fandom, written in TypeScript.
 - [holodata Discord](https://holodata.org/discord) - Discord server for holodata projects, computer/data science, vtubers, and other general discussions.
 
 ## Subreddits
