@@ -6,8 +6,6 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ## Database
 
-- [Ragtag Archive](https://archive.ragtag.moe/) - This website aims to back up as much Virtual YouTuber content as possible
-  - [Source Code](https://gitlab.com/aonahara/archive-browser)
 - [vdb](https://vdb.vtbs.moe/) - JSON Database of Vtubers
   - [Source Code](https://github.com/dd-center/vdb)
 - [Vlueprint](https://vlueprint.org/) - VTuber LOD
@@ -18,7 +16,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ## Dataset
 
-- [Vtuber 300M](https://www.kaggle.com/uetchy/vtuber-livechat) - Large Scale Virtual YouTubers Live Chat and Superchat Dataset for NLP
+- [Vtuber 500M](https://www.kaggle.com/uetchy/vtuber-livechat) - Large Scale Virtual YouTubers Live Chat and Superchat Dataset for NLP
   - [Source Code](https://github.com/holodata/vtuber-livechat-dataset)
 - [VTuber Music Dataset](https://github.com/yameholo/VTuber-music-dataset) - VTuber が投稿した歌ってみた動画の情報を人力で集めたデータセット
 
@@ -51,7 +49,6 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [HoloTools](https://hololive.jetri.co/#/)
   - [Source Code](https://github.com/holofans/holoapi)
 - [ホロジュール](https://schedule.hololive.tv/) - ホロライブプロダクション配信予定スケジュール
-- [VNUMA](https://vnuma.net/)
 - [VTubers](https://vtubers.love/) - VTuber のクリップ共有サービス
 - [VTuber video feeds](https://vchama.xyz/feeds) - shows new videos matched with specific terms
 - [vTubie](https://vtubie.com/) - vTubie is the wholesome home of VTubers and VStreamers – a platform for creators and viewers.
