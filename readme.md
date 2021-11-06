@@ -31,6 +31,11 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [HoloClouds](https://www.reddit.com/r/Hololive/comments/obzwfr/kiryu_cocoshaped_wordcloud_made_out_of_the_30k/) - Program that generates WordClouds from [Vtuber 300M Dataset](https://www.kaggle.com/uetchy/vtuber-livechat)
   - [Source Code](https://github.com/Yagato/HoloClouds)
 - [VTuber Collab Map](https://vchama.xyz/)
+- [Hololive Production Collaboration Matrix - A visualisation of the collaborations between Hololive members : Hololive](https://www.reddit.com/r/Hololive/comments/pdlov4/hololive_production_collaboration_matrix_a/)
+
+## EDA
+
+- [Exploratory data analysis for spam bot classification : Hololive](https://www.reddit.com/r/Hololive/comments/ji62z8/exploratory_data_analysis_for_spam_bot/)
 
 ## Statistics
 
@@ -39,6 +44,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [HoloTracker](https://trackholo.live/en/) - Transition of Subscribers to the Hololive Channel
 - [VTuber Statistics](https://vchama.xyz/stats)
 - [VTuber Chat Trends](https://www.vtuber-ct.net) - VTuber Chat Trends では、VTuber のライブ配信のチャット内で、どのようなキーワードが多く発言されたかを確認することができます。
+- [tuber report](https://tuber.report/) - engagement metrics for 'tubers
 - [PLAYBOARD](https://playboard.co) - Top Youtube channels
 - [UserLocal](https://virtual-youtuber.userlocal.jp/document/ranking) - 人気バーチャルユーチューバー ランキング
 
@@ -56,6 +62,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 ## Apps & Utilities
 
 - [Hololive xbar plugin](https://github.com/DaniruKun/hololive-xbar-plugin) - A Hololive xbar plugin, as a front end for Holofans and Holodex APIs.
+- [hapo31/YoutubeLiveApp: YoutubeLive をめっちゃ便利にするツール（仮) https://hapo31.github.io/YoutubeLiveApp/](https://github.com/hapo31/YoutubeLiveApp/)
 
 ## Tools & Libraries
 
