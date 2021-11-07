@@ -36,6 +36,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 ## EDA
 
 - [Exploratory data analysis for spam bot classification : Hololive](https://www.reddit.com/r/Hololive/comments/ji62z8/exploratory_data_analysis_for_spam_bot/)
+- [tuber.report – Medium](https://medium.com/@TuberReport)
 
 ## Statistics
 
