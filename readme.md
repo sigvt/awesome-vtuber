@@ -31,12 +31,16 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [HoloClouds](https://www.reddit.com/r/Hololive/comments/obzwfr/kiryu_cocoshaped_wordcloud_made_out_of_the_30k/) - Program that generates WordClouds from [Vtuber 300M Dataset](https://www.kaggle.com/uetchy/vtuber-livechat)
   - [Source Code](https://github.com/Yagato/HoloClouds)
 - [VTuber Collab Map](https://vchama.xyz/)
-- [Hololive Production Collaboration Matrix - A visualisation of the collaborations between Hololive members : Hololive](https://www.reddit.com/r/Hololive/comments/pdlov4/hololive_production_collaboration_matrix_a/)
 
 ## EDA
 
 - [Exploratory data analysis for spam bot classification : Hololive](https://www.reddit.com/r/Hololive/comments/ji62z8/exploratory_data_analysis_for_spam_bot/)
 - [tuber.report – Medium](https://medium.com/@TuberReport)
+- [Hololive Production Collaboration Matrix - A visualisation of the collaborations between Hololive members : Hololive](https://www.reddit.com/r/Hololive/comments/pdlov4/hololive_production_collaboration_matrix_a/)
+- [Exploratory data analysis for spam bot classification : Hololive](https://www.reddit.com/r/Hololive/comments/ji62z8/exploratory_data_analysis_for_spam_bot/)
+- [Hololive Data Science: How much overlap is there between the audiences of each HoloMyth member? Which fanbases are most closely related? : Hololive](https://www.reddit.com/r/Hololive/comments/qalzhg/hololive_data_science_how_much_overlap_is_there/)
+- [Hololive Data Science - Part 2: I collected almost 55 million chat messages from 2.2 million unique chatters for the entire history of HoloMyth to see how similar each member's audiences were, and how much overlap there is between fanbases. : Hololive](https://www.reddit.com/r/Hololive/comments/qke1pa/hololive_data_science_part_2_i_collected_almost/)
+- [Hololive Data Science (Part 3): At what points during the history of HoloMyth has chat been at peak velocity? Collecting 55 million chat messages to find out for which videos chat was at maximum brrrrr. : Hololive](https://www.reddit.com/r/Hololive/comments/qpdupy/hololive_data_science_part_3_at_what_points/)
 
 ## Statistics
 
