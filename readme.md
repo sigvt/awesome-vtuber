@@ -63,6 +63,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [VTubers](https://vtubers.love/) - VTuber のクリップ共有サービス
 - [VTuber video feeds](https://vchama.xyz/feeds) - shows new videos matched with specific terms
 - [vTubie](https://vtubie.com/) - vTubie is the wholesome home of VTubers and VStreamers – a platform for creators and viewers.
+- [Русскоязычные втуберы — vtubers.ru](https://vtubers.ru/ruvtubers/) - Russian-speaking vtubers
 
 ## Apps & Utilities
 
