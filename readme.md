@@ -68,7 +68,9 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 ## Apps & Utilities
 
 - [Hololive xbar plugin](https://github.com/DaniruKun/hololive-xbar-plugin) - A Hololive xbar plugin, as a front end for Holofans and Holodex APIs.
-- [hapo31/YoutubeLiveApp: YoutubeLive をめっちゃ便利にするツール（仮) https://hapo31.github.io/YoutubeLiveApp/](https://github.com/hapo31/YoutubeLiveApp/)
+- [YoutubeLiveApp](https://github.com/hapo31/YoutubeLiveApp/) - YoutubeLive をめっちゃ便利にするツール（仮)
+- [DOG](http://dog.paulvonlecter.name) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
+  - [Source Code](https://github.com/paulvonlecter/DOG)
 
 ## Tools & Libraries
 
@@ -79,6 +81,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [holodata/honeybee](https://github.com/holodata/honeybee) - 🍯🐝 Distributed YouTube live chat events collector
 - [drumath2237/hololive-now-server](https://github.com/drumath2237/hololive-now-server) - ホロジュールからスクレイピングして配信スケジュールを取得する API 鯖
 - [youtube-lv](https://github.com/phillychi3/youtube_lv) - get the youtube live status
+- [Alkonost](https://github.com/Asapin/alkonost) - Simple spam detector for YouTube chats with different UI options
 
 ## Discord
 
