@@ -69,7 +69,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 - [Hololive xbar plugin](https://github.com/DaniruKun/hololive-xbar-plugin) - A Hololive xbar plugin, as a front end for Holofans and Holodex APIs.
 - [YoutubeLiveApp](https://github.com/hapo31/YoutubeLiveApp/) - YoutubeLive をめっちゃ便利にするツール（仮)
-- [DOG](http://dog.paulvonlecter.name) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
+- [DOG](https://paulvonlecter.github.io/DOG/) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
   - [Source Code](https://github.com/paulvonlecter/DOG)
 
 ## Tools & Libraries
