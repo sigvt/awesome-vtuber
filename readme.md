@@ -30,6 +30,8 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
   - [Source Code](https://github.com/Speculative/hodllive)
 - [HoloClouds](https://www.reddit.com/r/Hololive/comments/obzwfr/kiryu_cocoshaped_wordcloud_made_out_of_the_30k/) - Program that generates WordClouds from [Vtuber 300M Dataset](https://www.kaggle.com/uetchy/vtuber-livechat)
   - [Source Code](https://github.com/Yagato/HoloClouds)
+- [Ninomae Ina'nis Horror Week HR Chart](https://vignedev.github.io/inadoki/#mzR5CjLXZtE)
+  - [Source Code](https://github.com/vignedev/inadoki)
 - [VTuber Collab Map](https://vchama.xyz/)
 
 ## EDA
