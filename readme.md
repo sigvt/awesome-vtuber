@@ -4,6 +4,11 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 > Missing your project? Send a pull-request.
 
+## Fun
+
+- ["Ara ara~" - Fauna, 2022](https://faunaraara.com/)
+- [Ina Noises](https://inanoises.com/)
+
 ## Database
 
 - [vdb](https://vdb.vtbs.moe/) - JSON Database of Vtubers
