@@ -78,6 +78,10 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [YoutubeLiveApp](https://github.com/hapo31/YoutubeLiveApp/) - YoutubeLive をめっちゃ便利にするツール（仮)
 - [DOG](https://paulvonlecter.github.io/DOG/) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
   - [Source Code](https://github.com/paulvonlecter/DOG)
+- [LiveTL](https://livetl.app/en/home/)
+  - [Source Code](https://github.com/LiveTL/LiveTL)
+- [HyperChat](https://livetl.app/en/hyperchat/)
+  - [Source Code](https://github.com/LiveTL/HyperChat)
 
 ## Tools & Libraries
 
@@ -89,11 +93,17 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [drumath2237/hololive-now-server](https://github.com/drumath2237/hololive-now-server) - ホロジュールからスクレイピングして配信スケジュールを取得する API 鯖
 - [youtube-lv](https://github.com/phillychi3/youtube_lv) - get the youtube live status
 - [Alkonost](https://github.com/Asapin/alkonost) - Simple spam detector for YouTube chats with different UI options
+- [Ex-Holodex](https://github.com/DaniruKun/ex-holodex) - Elixir client library for the [Holodex API](https://holodex.stoplight.io)
 
 ## Discord
 
 - [luna-translations-bot](https://github.com/luna-translations-bot/luna-translations-bot) - A complex and popular Discord bot for the Hololive fandom, written in TypeScript.
 - [holodata Discord](https://holodata.org/discord) - Discord server for holodata projects, computer/data science, vtubers, and other general discussions.
+
+## Other bots
+
+- [A-Chan](https://t.me/a_chan_bot) - A Telegram bot that allows you to get information about Hololive, Holomem streams and channels
+  - [Source Code](https://github.com/DaniruKun/holobot-ex)
 
 ## Subreddits
 
