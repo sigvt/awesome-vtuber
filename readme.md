@@ -18,6 +18,8 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [バーチャル YouTuberLOD](https://mdlab.slis.tsukuba.ac.jp/lodc2018/vtuber/) - VTuber LOD
 - [v-data](https://v-data.info/) - Search Vtubers by Emoji
 - [にじさんじコメント検索](https://comment2434.com/comment/) - Search live chats posted on Nijisanji streams
+- [VTuber チャット検索 – VTuber Data](https://vtdata.info/)
+- [きみもようみとる – VTuber Data](https://vtdata.info/youmitoru)
 
 ## Dataset
 
@@ -59,6 +61,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [tuber report](https://tuber.report/) - engagement metrics for 'tubers
 - [PLAYBOARD](https://playboard.co) - Top Youtube channels
 - [UserLocal](https://virtual-youtuber.userlocal.jp/document/ranking) - 人気バーチャルユーチューバー ランキング
+- [hololyzer](https://www.hololyzer.net/youtube/)
 
 ## Live Stream & Clip Index
 
