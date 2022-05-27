@@ -1,4 +1,4 @@
-# Awesome Vtuber
+# Awesome VTuber
 
 A curated list of awesome Vtuber-related projects. OSS comes first.
 
@@ -22,6 +22,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
   - [Source Code](https://github.com/OnlyKronii/OnlyKronii.github.io)
 - ["Ara ara~" - Fauna, 2022](https://faunaraara.com/)
 - [Ina Noises](https://inanoises.com/)
+- [Hololive EN Fan Website](https://holoen.fans/)
 
 ## Dataset & Database
 
