@@ -23,6 +23,10 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - ["Ara ara~" - Fauna, 2022](https://faunaraara.com/)
 - [Ina Noises](https://inanoises.com/)
 - [Hololive EN Fan Website](https://holoen.fans/)
+- [IS ayame live today](https://nakiri.canaria.cc/)
+  - [Source Code](https://github.com/canaria3406/canaria-nakiri)
+- [IS uto live](https://phillychi3.github.io/isutolive/)
+  - [Source Code](https://github.com/phillychi3/isutolive)
 
 ## Dataset & Database
 
