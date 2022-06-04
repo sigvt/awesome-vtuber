@@ -28,6 +28,14 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [IS uto live](https://phillychi3.github.io/isutolive/)
   - [Source Code](https://github.com/phillychi3/isutolive)
 
+## Language Learning
+
+- [Do HoloID Say It](https://learn-id.holodata.org/)⚡️ - See how HoloID members use certain phrase or word.
+  - [Source Code](https://github.com/holodata/learn-bahasa-indonesia)
+- [Learn Bahasa Indonesia with VTubers](https://github.com/holodata/learn-bahasa-indonesia)⚡️
+- [Learn Japanese with Hololive](https://github.com/holodata/learn-japanese)⚡️
+- [Learn English with Hololive](https://github.com/holodata/learn-english)⚡️
+
 ## Dataset & Database
 
 - [Vtuber 1B](https://www.kaggle.com/uetchy/vtuber-livechat)⚡️ - Large Scale Virtual YouTubers Live Chat and Superchat Dataset for NLP
