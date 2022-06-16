@@ -27,6 +27,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
   - [Source Code](https://github.com/canaria3406/canaria-nakiri)
 - [IS uto live](https://phillychi3.github.io/isutolive/)
   - [Source Code](https://github.com/phillychi3/isutolive)
+- [VTLore](https://vtlore.vercel.app/) - The AI lore generator for VTubers
 
 ## Language Learning
 
