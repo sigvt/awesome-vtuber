@@ -28,6 +28,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [IS uto live](https://phillychi3.github.io/isutolive/)
   - [Source Code](https://github.com/phillychi3/isutolive)
 - [VTLore](https://vtlore.vercel.app/) - The AI lore generator for VTubers
+- [Holotyping](https://mesiro101.itch.io/holotyping) - Holotyping is a Hololive fan-made typing game. Can use support and ultimate to get a high score!
 
 ## Language Learning
 
