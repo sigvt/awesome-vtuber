@@ -105,6 +105,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [Hololive Data Science](https://www.reddit.com/r/Hololive/comments/qalzhg/hololive_data_science_how_much_overlap_is_there/) - How much overlap is there between the audiences of each HoloMyth member? Which fanbases are most closely related?
 - [Hololive Data Science - Part 2](https://www.reddit.com/r/Hololive/comments/qke1pa/hololive_data_science_part_2_i_collected_almost/) - I collected almost 55 million chat messages from 2.2 million unique chatters for the entire history of HoloMyth to see how similar each member's audiences were, and how much overlap there is between fanbases.
 - [Hololive Data Science (Part 3)](https://www.reddit.com/r/Hololive/comments/qpdupy/hololive_data_science_part_3_at_what_points/) - At what points during the history of HoloMyth has chat been at peak velocity? Collecting 55 million chat messages to find out for which videos chat was at maximum brrrrr.
+- [Hololive Live Chat Population — Two Outliers Among Them (Spoilers: Kobo and Gura)](https://www.reddit.com/r/Hololive/comments/v96vea/hololive_live_chat_population_two_outliers_among/)
 
 ## Apps
 
@@ -133,6 +134,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 - [Ancient One Dark](https://marketplace.visualstudio.com/items?itemName=uetchy.ancient-one-dark)⚡️ - VS Code purple theme for the ancient ones
   - [Source Code](https://github.com/holodata/ancient-one-dark)
+- [vPen](https://github.com/GirkovArpa/vpen) - Digital pen tracking OBS overlay for vtubers
 
 ## Discord
 
