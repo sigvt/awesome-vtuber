@@ -140,6 +140,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 - [Luna Translation Bot](https://github.com/luna-translations-bot/luna-translations-bot) - A complex and popular Discord bot for the Hololive fandom, written in TypeScript.
 - [Holodata Discord](https://holodata.org/discord)⚡️ - Discord server for Holodata projects, computer/data science, VTubers, and other general discussions.
+- [FBK](https://github.com/kabiiQ/FBK) - FBK is a publicly-hosted chat bot for your Discord server.
 
 ## Telegram
 
