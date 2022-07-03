@@ -12,6 +12,15 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
   - [GitHub](https://github.com/holodata)
   - [Hugging Face](https://huggingface.co/holodata)
 
+## Games
+
+- [HoloCure](https://kay-yu.itch.io/holocure) - Collect powerful weapons and items and experiment with all kinds of builds to create the ultimate character!
+  - [tasukeru](https://github.com/DaniruKun/tasukeru/) - HoloCure save file importer / transfer tool.
+- [WOWOWOW KORONE BOX](https://tiannya.itch.io/wowowow-korone-box) - The game is a top-down shooter with the objective of collecting as many Korone Boxes as possible without getting hit even once.
+- [Holotyping](https://mesiro101.itch.io/holotyping) - Holotyping is a Hololive fan-made typing game. Can use support and ultimate to get a high score!
+- [Amelia Watson Case File no.420](https://planetdropper.itch.io/ame420) - A short holoMyth fan visual novel!
+- [Smol Ame](https://moocow-games.itch.io/smol-ame) - A smol game about smol Ame.
+
 ## Fun
 
 - [I MISS FAUNA](https://imissfauna.com/)
@@ -28,7 +37,6 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [IS uto live](https://phillychi3.github.io/isutolive/)
   - [Source Code](https://github.com/phillychi3/isutolive)
 - [VTLore](https://vtlore.vercel.app/) - The AI lore generator for VTubers
-- [Holotyping](https://mesiro101.itch.io/holotyping) - Holotyping is a Hololive fan-made typing game. Can use support and ultimate to get a high score!
 
 ## Language Learning
 
