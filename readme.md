@@ -143,6 +143,8 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [Ancient One Dark](https://marketplace.visualstudio.com/items?itemName=uetchy.ancient-one-dark)⚡️ - VS Code purple theme for the ancient ones
   - [Source Code](https://github.com/holodata/ancient-one-dark)
 - [vPen](https://github.com/GirkovArpa/vpen) - Digital pen tracking OBS overlay for vtubers
+- [sup4bubb4](https://sup4bubb4.com) - Amelia Watson's SC reading VODs synced up with bubb4bot queue
+  - [Source Code](https://github.com/vadimegorov13/sup4bubb4)
 
 ## Discord
 
