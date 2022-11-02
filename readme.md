@@ -125,6 +125,7 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 - [YoutubeLiveApp](https://github.com/hapo31/YoutubeLiveApp/) - YoutubeLive をめっちゃ便利にするツール（仮)
 - [DOG](https://paulvonlecter.github.io/DOG/) - Discord overlay generator for OBS, Xsplit and etc. broadcast programs. Feel free to participate in development of this tool and suggest some improvements or new CSS-hacks!
   - [Source Code](https://github.com/paulvonlecter/DOG)
+- [Hoshinova](https://github.com/HoloArchivists/hoshinova) - Schedule downloads of Youtube live streams
 
 ## Dev Tools
 
