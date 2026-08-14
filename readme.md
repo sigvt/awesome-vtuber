@@ -117,6 +117,8 @@ A curated list of awesome Vtuber-related projects. OSS comes first.
 
 ## Apps
 
+- [VTubeClip](https://vtubeclip.com) - Turns Vtuber stream VODs into vertical Shorts automatically; keeps the Live2D/3D model in frame instead of face-tracking the game. No generative AI.
+
 - [LiveTL](https://livetl.app/en/home/) - Get live translations for YouTube streams, crowdsourced from multilingual viewers!
   - [Source Code](https://github.com/LiveTL/LiveTL)
 - [HyperChat](https://livetl.app/en/hyperchat/) - Optimized YouTube Chat
